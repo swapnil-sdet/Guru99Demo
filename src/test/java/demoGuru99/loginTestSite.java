@@ -1,7 +1,7 @@
 package demoGuru99;
 
 /*
-@Author: Swapnil Padekar
+@Swapnil Padekar
 
 Test Steps -
 1. Go to URL: http://www.demo.guru99.com/V4/

@@ -66,6 +66,6 @@ public class TestScriptDay2 {
             System.out.println("Test case : Failed");
         }
 
-        driver.quit();
+        driver.quit(); // Close all the instances of the browser
     }
 }

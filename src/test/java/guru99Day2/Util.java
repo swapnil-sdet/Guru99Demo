@@ -1,6 +1,7 @@
 package guru99Day2;
 /*
 @Swapnil Padekar
+1. Common functionalities are consolidated
  */
 
 public class Util {
