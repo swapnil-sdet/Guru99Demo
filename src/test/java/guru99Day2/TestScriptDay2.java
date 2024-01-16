@@ -1,6 +1,6 @@
 package guru99Day2;
 
-/*
+/* @Swapnil Padekar
 Time to create a more professional Script
 1) All parameters will be saved in File Util.java - Helps in easy code maintenance
 2) We will move the code to launch Webdriver in a separate method as SetUp. Helps in code understanding
@@ -40,7 +40,6 @@ public class TestScriptDay2 {
     }
 
     public static void main(String args[]) throws Exception {
-
 
         //Setup Chrome driver
         setUp();
